@@ -109,7 +109,7 @@ window.onload = function () {
                 }
                 
             }
-            fin--;
+            --fin;
         }
     }
 }
